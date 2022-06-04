@@ -30,7 +30,7 @@ public class HelloController {
 				<title>Awesome API REST</title>
 				</head>
 				<body>
-				<h1 style="color:red;">Bienvenido a la API extraterrestre</h1>
+				<h1 style="color:red;">Bienvenido a la API Rest</h1>
 				<a href="/api/cars">Cars Database</a>
 				
 				</body>
@@ -61,7 +61,7 @@ public class HelloController {
 		// diferentes niveles de logger:
 		// log.warn("Executing hello world method from logger");
 		// log.error("Executing hello world method from logger");
-		return "Adios mundo cruel";
+		return "Adios¡";
 	}
 
 	
